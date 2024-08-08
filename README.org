@@ -1,0 +1,2 @@
+* ROS2 Humble Bags to Frames
+colcon build, then start this node with ros2 run b2f b2f and play all your bags one by one, will be outputted to frames/
